@@ -1,2 +1,2 @@
-# alexump-1739417.github.io/index.html
+# alexump-1739417.github.io
 Info 101 stuff
